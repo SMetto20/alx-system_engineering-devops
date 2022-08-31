@@ -1,0 +1,5 @@
+#!/bin/bash
+cp *.html alx-system_engineering-devops
+touch file1
+cp file1 alx-system_engineering-devops
+
